@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865334199996",
+    "project_id": "smarthealthassistancev2",
+    "storage_bucket": "smarthealthassistancev2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865334199996:android:f1330eab33e7901768b2b9",
+        "android_client_info": {
+          "package_name": "com.example.smart_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTSPn3xQuQkC-fVc_Q2AMrIgiWJX9DUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
